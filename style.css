@@ -1,0 +1,143 @@
+:root {
+    --color-turquoise: #2de1c2;
+    --color-dark-purple: #0d0628;
+    --color-white: #ffe9cf;
+    --color-crimson: #d91e36;
+    --color-murrey: #950952;
+}
+
+@font-face {
+    font-family: "ARCADEPI";
+    src: url("/assets/font/ARCADEPI.TTF");
+}
+
+
+i {
+    color: #d91e36;
+}
+
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    /*padding-left: 2%;
+    padding-right: 2%;*/
+    background-color: var(--color-white);
+    font-family: "ARCADEPI";
+}
+
+/*HEADER*/
+.contenedor__header {
+
+    width: 100%;
+    height: 5em;
+    margin: 0;
+    background-color: #2de1c2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Heart {
+    width: 100%;
+    max-width: max-content;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1em;
+}
+
+/*MEAIN*/
+
+main {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 2%;
+}
+
+
+/*CONTENEDOR DE PRODUCTOS*/
+
+.contenedor__misProductos {
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    margin-top: 2%;
+    border-radius: 2%;
+    /* Centra el contenedor horizontalmente */
+    background-color: white;
+
+}
+
+h1 {
+    width: 100%;
+    font-size: 1.5em;
+    text-align: center;
+    color:#950952;
+}
+
+.Producto__Conteiner {
+    display: flex;
+    flex-wrap: wrap;
+    height: 650px;
+    gap: 1%;
+    padding: 3%;
+    justify-content: space-between;
+    overflow: scroll;
+    /*aplica una barra de desplazamiento*/
+}
+
+.card {
+    flex: 1;
+    flex-basis: calc(30.33% - 10px);
+    max-width: calc(30.33% - 10px);
+    height: fit-content;
+    background-color:#0d0628;
+    color: #fff0f3;
+    padding: 1%;
+    margin-bottom: 1%;
+    border-radius: 2%;
+    
+}
+
+img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: #2de1c2 solid 5px;
+    border-radius: 2%;
+}
+
+
+/*FORM*/
+#productoSeleccionado {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 500px;
+    margin-top: 2%;
+    padding: 1%;
+    border-radius: 2%;
+    /* Centra el contenedor horizontalmente */
+    background-color: white;
+}
+
+#infoProducto{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    color: #950952;
+}
+

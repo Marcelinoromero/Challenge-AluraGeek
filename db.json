@@ -1,0 +1,64 @@
+{
+  "Productos": [
+    {
+      "id": 1,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img3.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img1.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img2.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img3.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Alura Tracker 3.0",
+      "precio": 100,
+      "foto": "assets/img/img1.jpg"
+    },
+    {
+      "id": "7f57",
+      "nombre": "gcdycg",
+      "precio": "5353",
+      "foto": "assets/img/img1.jpg"
+    },
+    {
+      "id": "d9de",
+      "nombre": "sbsbsvs",
+      "precio": "64646",
+      "foto": "https://imgs.search.brave.com/_viUKB2zwExumTf_a694IllRyq1Ah5vVCNKWD81EB34/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/am9ybmFkYS5jb20u/bXgvbmRqc2ltZy9p/bWFnZXMvam9ybmFk/YS9qb3JuYWRhaW1n/L2VsLWRpYS1lbi1p/bWFnZW5lcy0yMDI0/LTA3LTEydDE0LTA0/LTU5L2VsLWRpYS1l/bi1pbWFnZW5lcy0y/MDI0LTA3LTEydDE0/LTA0LTU5LXRhaXdh/bmpwZy00MjFhZWNk/Yi01ZjZlLTQ3MTUt/OTdiMy02MzNlNzA4/N2Y0NzYuanBn"
+    },
+    {
+      "id": "c39b",
+      "nombre": "Titulopeepep",
+      "precio": "64647",
+      "foto": "https://imgs.search.brave.com/_viUKB2zwExumTf_a694IllRyq1Ah5vVCNKWD81EB34/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/am9ybmFkYS5jb20u/bXgvbmRqc2ltZy9p/bWFnZXMvam9ybmFk/YS9qb3JuYWRhaW1n/L2VsLWRpYS1lbi1p/bWFnZW5lcy0yMDI0/LTA3LTEydDE0LTA0/LTU5L2VsLWRpYS1l/bi1pbWFnZW5lcy0y/MDI0LTA3LTEydDE0/LTA0LTU5LXRhaXdh/bmpwZy00MjFhZWNk/Yi01ZjZlLTQ3MTUt/OTdiMy02MzNlNzA4/N2Y0NzYuanBn"
+    }
+  ]
+}
